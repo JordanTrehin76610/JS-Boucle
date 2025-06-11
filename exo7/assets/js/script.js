@@ -1,4 +1,4 @@
-for (let i = 20; i > -1; i--) {
+for (let i = 20; i >= 0; i--) {
     if (i === 20) {
         console.log(`Start !! \n${i}`)
     } else if (i === 0) {
